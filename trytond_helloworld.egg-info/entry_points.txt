@@ -1,0 +1,4 @@
+
+    [trytond.modules]
+    helloworld = trytond.modules.helloworld
+    

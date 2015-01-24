@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+./__init__.py
+./helloworld.py
+./helloworld.xml
+./tryton.cfg
+./tests/__init__.py
+./tests/test_views_depends.py
+trytond_helloworld.egg-info/PKG-INFO
+trytond_helloworld.egg-info/SOURCES.txt
+trytond_helloworld.egg-info/dependency_links.txt
+trytond_helloworld.egg-info/entry_points.txt
+trytond_helloworld.egg-info/not-zip-safe
+trytond_helloworld.egg-info/requires.txt
+trytond_helloworld.egg-info/top_level.txt
